@@ -4,7 +4,8 @@
 # 👋 Hello, I'm Youssef Tag Eldin
 
 ------
-#I’m a passionate AI researcher with a deep interest in the theoretical and mathematical foundations of intelligent systems to devlop a better understanding of these systems and make them more reliable and roobust. I'm driven to apply AI in solving real-world challenges, especially in healthcare, and I’m also enthusiastic about exploring diverse fields like NLP and multi-agent systems.
+#I’m a passionate AI researcher with a deep interest in the theoretical and mathematical foundations of intelligent systems to devlop a better understanding of these systems and make them more reliable and roobust. 
+I'm driven to apply AI in solving real-world challenges, especially in healthcare, and I’m also enthusiastic about exploring diverse fields like NLP and multi-agent systems.
 ---
 
 ## 🔬 Research Experience
