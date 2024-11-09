@@ -1,4 +1,3 @@
-Here's a comprehensive GitHub profile README that reflects your CV content in a clean, organized, and visually appealing format:
 
 ---
 
