@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-tageldin-783516213)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yosftag2000@gmail.com)
+
 *Machine Learning Engineer with expertise in deep learning, computer vision, and applied AI research. Currently at **Contrast AI** developing state-of-the-art generative models for medical imaging applications. Experienced in converting research into production-ready solutions and building robust, reproducible ML pipelines.*
 
 Focused on fundamental AI research in architecture design and decision-making systems, with applications in biomedical and other impactful domains.
