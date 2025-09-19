@@ -8,7 +8,7 @@
 
 *Machine Learning Engineer with expertise in deep learning, computer vision, and applied AI research. Currently at **Contrast AI** developing state-of-the-art generative models for medical imaging applications. Experienced in converting research into production-ready solutions and building robust, reproducible ML pipelines.*
 
-*Focused on fundamental AI research in architecture design and decision-making systems, with applications in biomedical and other impactful domains.*
+**Focused on fundamental AI research in architecture design and decision-making systems, with applications in biomedical and other impactful domains.**
 ---
 
 ## 💼 Experience
