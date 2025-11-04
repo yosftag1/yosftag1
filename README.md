@@ -3,6 +3,7 @@
 **Machine Learning Engineer | Deep Learning Researcher | Applied AI Specialist**
 
 *Machine Learning Engineer with expertise in deep learning, computer vision, and applied AI research. Currently at **Contrast AI** developing state-of-the-art generative models for medical imaging applications. Experienced in converting research into production-ready solutions and building robust, reproducible ML pipelines.*
+
 ---
 
 ## Experience
@@ -20,7 +21,7 @@
 - Published in **Nature Scientific Reports** (2025)
 ---
 
-## 📫 Contact
+## Contact
 
 - Email: [yosftag2000@gmail.com](mailto:yosftag2000@gmail.com)
 - LinkedIn: [youssef-tageldin](https://linkedin.com/in/youssef-tageldin-783516213)
