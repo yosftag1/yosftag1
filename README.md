@@ -1,6 +1,6 @@
 # Youssef Tag Eldin
 
-**Machine Learning Engineer | Deep Learning Researcher **
+##Machine Learning Engineer | Deep Learning Researcher ##
 
 Machine Learning Engineer and Researcher building research-driven AI systems, with experience across computer vision, NLP, explainable AI, and biomedical signal processing.
 
