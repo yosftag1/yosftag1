@@ -1,28 +1,18 @@
 # Youssef Tag Eldin
 
-**Machine Learning Engineer | Deep Learning Researcher | Applied AI Specialist**
+**Machine Learning Engineer | Deep Learning Researcher **
 
-*Machine Learning Engineer with expertise in deep learning, computer vision, and applied AI research. Currently at **Contrast AI** developing state-of-the-art generative models for medical imaging applications. Experienced in converting research into production-ready solutions and building robust, reproducible ML pipelines.*
+Machine Learning Engineer and Researcher building research-driven AI systems, with experience across computer vision, NLP, explainable AI, and biomedical signal processing.
+
+Currently, I work as an ML Engineer at **Contrast AI**, contributing to the research and design of generative computer-vision models for medical imaging. Previously, I was a Research Assistant at **SRTA-City** under Dr. Shaimaa Lazem, where I worked on explainable AI for NLP and evaluation frameworks for large language models.
 
 ---
 
-## Experience
+### Research & Engineering Interests
+- **Deep Learning & Architecture Design**: generative models, representation learning  
+- **Computer Vision**: medical imaging, image-to-image translation  
+- **Trustworthy AI**: explainability, fairness, robustness  
+- **Applied Machine Learning**: end-to-end ML systems  
+- **Data-Centric AI**: improving data quality and model reliability  
 
-### Machine Learning Engineer @ Contrast AI
-*April 2025 – Present*
-- Conducting R&D on state-of-the-art computer vision models for medical imaging
-- Designing end-to-end training/validation pipelines with custom loss functions
-- Building modular codebases for rapid experimentation and production deployment
-- Developing generative models that outperform prior baselines across clinical metrics
-
-### Research Assistant @ SRTA-City
-- **LLM Evaluation**: Pioneered rubric-based evaluation framework for autonomous educational agents
-- **Explainable AI**: Developed interpretability-driven systems for Arabic NLP tasks
-- Published in **Nature Scientific Reports** (2025)
----
-
-## Contact
-
-- Email: [yosftag2000@gmail.com](mailto:yosftag2000@gmail.com)
-- LinkedIn: [youssef-tageldin](https://linkedin.com/in/youssef-tageldin-783516213)
-- Phone: +20 100 828 6063
+I’m motivated by building responsible AI systems with real-world impact.
