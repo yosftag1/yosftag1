@@ -1,8 +1,6 @@
 # Youssef Tag Eldin
 
-##Machine Learning Engineer | Deep Learning Researcher ##
-
-Machine Learning Engineer and Researcher building research-driven AI systems, with experience across computer vision, NLP, explainable AI, and biomedical signal processing.
+An enthusiastic Machine Learning Engineer and Researcher i mostly build cutting edge AI systems, i have experience across computer vision, NLP, explainable AI, and biomedical applications.
 
 Currently, I work as an ML Engineer at **Contrast AI**, contributing to the research and design of generative computer-vision models for medical imaging. Previously, I was a Research Assistant at **SRTA-City** under Dr. Shaimaa Lazem, where I worked on explainable AI for NLP and evaluation frameworks for large language models.
 
