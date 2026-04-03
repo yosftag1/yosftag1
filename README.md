@@ -1,16 +1,20 @@
-# Youssef Tag Eldin
+## 👋 Hi, I’m Youssef Tag Eldin  
 
-An enthusiastic Machine Learning Engineer and Researcher i mostly build cutting edge AI systems, i have experience across computer vision, NLP, explainable AI, and biomedical applications.
+Machine Learning Engineer & Researcher passionate about solving real-world problems. I enjoy working across domains and building systems end-to-end, from data preparation and model training to developing applications that leverage AI models and tools.
 
-Currently, I work as an ML Engineer at **Contrast AI**, contributing to the research and design of generative computer-vision models for medical imaging. Previously, I was a Research Assistant at **SRTA-City** under Dr. Shaimaa Lazem, where I worked on explainable AI for NLP and evaluation frameworks for large language models.
+- Currently: ML Engineer @ **Contrast AI** (Generative CV for medical imaging)  
+- Interests: **AI Research, Designing and Training Models, and Building Applications across diverse real-world domains**  
+- I build across the AI stack — data → models → applications
+- I'm mostly framework agnostic i enjoy working in both pytorch and tensorflow. 
+  ## Research & Publications  
 
----
+- **Data-Centric HitL Framework for NLP**  
+  *Nature Scientific Reports, 2025* 
+  https://doi.org/10.1038/s41598-025-13452-y  
 
-### Research & Engineering Interests
-- **Deep Learning & Architecture Design**: generative models, representation learning  
-- **Computer Vision**: medical imaging, image-to-image translation  
-- **Trustworthy AI**: explainability, fairness, robustness  
-- **Applied Machine Learning**: end-to-end ML systems  
-- **Data-Centric AI**: improving data quality and model reliability  
+- **Evaluating Arabic LLMs in Education**  
+  *Language Resources & Evaluation* (under review)  
 
-I’m motivated by building responsible AI systems with real-world impact.
+- **Graph-Transformer for EEG Alzheimer’s Classification**  
+  *Biomedical Physics & Engineering Express* (accepted)  
+  https://doi.org/10.1088/2057-1976/ae451c  
