@@ -5,10 +5,11 @@ Machine Learning Engineer & Researcher passionate about solving real-world probl
 
 - Currently: ML Engineer @ **Contrast AI** (Generative CV for medical imaging)  
 - Interests: **AI Research, Designing and Training Models, and Building Applications across diverse real-world domains**  
-- I build across the AI stack — data → models → applications
+- I work across the AI stack — data → models → applications
 - I'm mostly framework agnostic i enjoy working in both pytorch and tensorflow.
 
  Recently, I’ve been building and experimenting with systems and projects around problems I’m interested in, exploring them from both a research and engineering perspective 
+ mainly in vision systems and applications
   ## Research & Publications  
 
 - **Data-Centric HitL Framework for NLP**  
